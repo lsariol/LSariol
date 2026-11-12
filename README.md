@@ -1,34 +1,34 @@
-## About Me
+# What I Build
 
-I'm a software engineer with experience in DevOps and full-stack development. I enjoy building backend services, infrastructure tools, and applications that solve problems I encounter.
+I'm a software engineer focused on backend development, infrastructure automation, and developer tooling. Most of my personal projects are built with Go, Docker, PostgreSQL, and Linux.
 
-A lot of my personal work focuses on Go, Docker, PostgreSQL, and automation. I run my own infrastructure, build the tools that manage it, and develop applications that run on top of it.
+## Infrastructure at Home
 
-## Infrastructure I Run
+I run my own server and build the tools that deploy, secure, and monitor the services running on it.
 
-I host my own applications and build much of the infrastructure that supports them. These projects work together to handle deployments, secrets, monitoring, and logging.
+| Project | What it does |
+|---|---|
+| **Lighthouse** | Container orchestration, automated testing, deployments, and recovery |
+| **Cove** | Encrypted secrets management with scoped access and audit history |
+| **Sonar** | Host, container, and application health monitoring |
+| **Blackbox** | Centralized log collection, storage, and search |
 
-- **Lighthouse** — A container deployment orchestrator that automates building, testing, and deploying applications.
-- **Cove** — An encrypted secrets vault for securely storing and managing application credentials.
-- **Sonar** — A monitoring service that tracks system health, container metrics, and application availability.
-- **Blackbox** — A centralized logging system for collecting and managing logs across my applications and infrastructure.
+## Projects
 
-## Applications & Tools
+Applications and services I've built outside of infrastructure work.
 
-Outside of infrastructure, I enjoy building applications around my interests and finding solutions to everyday problems.
+| Project | What it does |
+|---|---|
+| **Lys** | A modular community bot with Twitch integrations and external service APIs |
+| **Plop** | File and text sharing between browsers and paired desktop devices |
 
-- **Lys** — A community bot designed to connect people and functionality across streaming and messaging platforms.
-- **Plop** — A simple way to share content between devices.
+## Technologies
 
-## Technologies I Work With
-
-- **Languages:** Go, Python, SQL, PowerShell
-- **Infrastructure:** Docker, Docker Compose, Linux, GitHub Actions
-- **Databases:** PostgreSQL
-- **Development:** REST APIs, WebSockets, CI/CD, Git
-
----
-
-You can find more of what I'm working on at [mobasity.com](https://mobasity.com).
+**Languages:** Go, Python, SQL, PowerShell  
+**Infrastructure:** Docker, Docker Compose, Linux, CI/CD  
+**Databases:** PostgreSQL  
+**Development:** REST APIs, WebSockets, Git
 
 ---
+
+More projects and applications at [mobasity.com](https://mobasity.com).
